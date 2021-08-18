@@ -1,4 +1,6 @@
-## **STAGE 2 TASK Projects/Tasks from HNGi4G8 - Zuri internship**
+# **STAGE 2 Projects/Tasks from HNGi4G8 - Zuri internship**
+
+
 
 
 # TASK A --- A simple program that prints your name
